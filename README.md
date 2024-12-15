@@ -1,15 +1,14 @@
-# Hi there. I am Mohebullah 👋
 
-<!--
-**CodeByMoheb/CodeByMoheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+<img src="ml.gif" alt="Machine Learning">
+</p>
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Python for my machine Larning Journey
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.kaggle.com/shaifulislam" target="blank"><img align="center" src="kaggle.png" alt="dephraiim" height="18" width="20" /></a>
+<a href="https://www.linkedin.com/in/shaiful019/" target="blank"><img align="center" src="linkedin.png" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/5193658/shaiful-islam" target="blank"><img align="center" src="stack-overflow.png" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://twitter.com/IslamMador" target="blank"><img align="center" src="twitter.png" alt="dephraiim" height="20" width="20" /></a>
+</p>
+<br>
+<br>
