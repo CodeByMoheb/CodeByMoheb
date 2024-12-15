@@ -4,22 +4,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdullahAlAlif"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;I'm+Alif;I+enjoy+coding,;Enthusiastic+about+ML;and+try+to+embrace+challenges;Always+eager+to+learn+and+adapt.&center=true&width=500&height=60&color=FFFFFF&background=000000"></a>
+  <a href="https://github.com/codebymoheb"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;I'm+Mohebullah;I+enjoy+coding,;Enthusiastic+about+ML;and+try+to+embrace+challenges;Always+eager+to+learn+and+adapt.&center=true&width=500&height=60&color=FFFFFF&background=000000"></a>
 </p>
 
 
 
 
 <p align="center">
-<a href="mailto:alif126426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"  align="center"/></a>
+<a href="mailto:Mohebullah126426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"  align="center"/></a>
 <a href="https://x.com/TurussoTempest" target="_blank"><img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X.com Badge" align="center" /></a>
 <a href="https://discordapp.com/users/805696667898347541" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="center" /></a>
-<a href="https://t.me/Abdullah_Al_Alif" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center" /></a>
+<a href="https://t.me/Abdullah_Al_Mohebullah" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" align="center" /></a>
 <a href="https://wa.me/8801533924031" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" align="center"/></a>
-<a href="https://www.kaggle.com/abdullahalalif" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
-<a href="https://leetcode.com/u/alif126426/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
-<a href="https://huggingface.co/AbdullahAlAlif" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
-<a href="https://www.linkedin.com/in/abdullah-al-alif-580988340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/></a>
+<a href="https://www.kaggle.com/abdullahalMohebullah" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" align="center" /></a>
+<a href="https://leetcode.com/u/Mohebullah126426/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" align="center" /></a>
+<a href="https://huggingface.co/AbdullahAlMohebullah" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFAE0D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge" align="center"/></a>
+<a href="https://www.linkedin.com/in/abdullah-al-Mohebullah-580988340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" align="center"/></a>
 
 
