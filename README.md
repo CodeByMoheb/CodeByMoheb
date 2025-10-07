@@ -133,24 +133,19 @@
 
 ## 🧪 Projects
 
-- Alzheimer’s Disease Classification (2025)  
-  CNN for feature extraction and QNN for decision-making; ensemble Swin Transformer (Tiny/Small/Base).  
-  Tech: Python, TensorFlow, Swin Transformer, NumPy, Matplotlib, Pandas
-
-- Meal Management System (2024)  
-  Meal tracking, authentication, meal plans, expense tracking.  
-  Tech: .NET MVC, XAMPP (MySQL), HTML/CSS, JavaScript
-
-- Hostel Management System (2025)  
-  Hostel bookings, check-ins, room allocation, registration, room catalog.  
-  Tech: ASP.NET MVC, Microsoft SQL Server, HTML/CSS, JavaScript
+| Project                                   | Tech Stack                                                        | Year | Repository / Live |
+| ----------------------------------------- | ----------------------------------------------------------------- | ---- | ----------------- |
+| Sector 13 Welfare Society – Management    | ASP.NET MVC, Blazor Server, SQL Server                            | 2025 | [Repository](https://github.com/CodeByMoheb/Sector-13-wllfare-socity-project) |
+| Alzheimer’s Disease Classification        | Python, TensorFlow, Swin Transformer, NumPy, Matplotlib, Pandas   | 2025 | —                 |
+| Meal Management System                    | .NET MVC, XAMPP (MySQL), HTML/CSS, JavaScript                     | 2024 | —                 |
+| Hostel Management System                  | ASP.NET MVC, Microsoft SQL Server, HTML/CSS, JavaScript           | 2025 | —                 |
 
 ## 💡 Quote of the Day
 
 <div align="center">
   <em>“Every error is an opportunity to learn. Don't be afraid to make mistakes; they're part of the coding process.”</em>  
   <br/><br/>
-  <strong> — Md. Mohebullah</strong>
+  <strong>  Md. Mohebullah</strong>
 </div>
 
 ## 📊 GitHub Stats
