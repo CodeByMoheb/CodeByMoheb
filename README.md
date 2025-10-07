@@ -1,8 +1,9 @@
 <!--Banar Section Start-->
 
-![logo](assets\img\mohebullah_github-bannar.png)
+<img src="assets/img/mohebullah_github-bannar.png" alt="Banner" />
 
 <!--Banar Section End-->
+
 
 <!--Title & Typography Section End-->
 <h1 align="center">Hi ,<img src="./assets/img/Wave.gif" height="50px" width="50px">I'm Md. Mohebullah</h1>
