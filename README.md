@@ -61,11 +61,11 @@
 
 ## 💼 Experience
 
-| Position                         | Institute | Duration         | Location              | Credential ID / Link |
-| -------------------------------- | --------- | ---------------- | --------------------- | -------------------- |
-| Full Stack ASP.NET Developer     |E-Group    | Present          | — Utatra13, Dhaka     | —                    |
-| ASP.NET Developer (Internship)   |E-Group    | june to semtepber| — Utatra13, Dhaka     | —                    |
-| Private Tutor                    | —         | 2023 – 2024      | —                     | —                    |
+| Position                         | Institute | Duration         | Location            | 
+| -------------------------------- | --------- | ---------------- | --------------------| 
+| Full Stack ASP.NET Developer     |E-Group    | Present          | Utatra13, Dhaka     | 
+| ASP.NET Developer (Internship)   |E-Group    | june to semtepber| Utatra13, Dhaka     | 
+| Private Tutor                    |           | 2023 – 2024      |                     | 
 
 #### 🎯 Private Tutor – Highlights
 
@@ -122,11 +122,11 @@
 
 | Licenses & Certifications              | Issuing Organization | Year | Credential ID / Link |
 | -------------------------------------- | -------------------- | ---- | -------------------- |
-| Intro to Machine Learning              | Kaggle               | 2024 | —https://www.kaggle.com/learn/certification/mdmohebullah/intro-to-machine-learning   
-| Intermediate Machine Learning          | Kaggle               | 2024 | —https://www.kaggle.com/learn/certification/mdmohebullah/intermediate-machine-learning           
-| Intro to Deep Learning                 | Kaggle               | 2025 | —https://www.kaggle.com/learn/intro-to-deep-learning                              
-| Basic Graphic Design                   | Pentanik IT BD       | 2021 | —https://drive.google.com/file/d/1JP2pzU7PZLxd7WYA-m33qhqWbVUm4_lg/view  
-| Data Science Math Skills               | Coursera             | 2025 | —https://www.coursera.org/account/accomplishments/verify/8WHPVSVIP498?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course  
+| Intro to Machine Learning              | Kaggle               | 2024 | [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intro-to-machine-learning)   
+| Intermediate Machine Learning          | Kaggle               | 2024 | [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intermediate-machine-learning)           
+| Intro to Deep Learning                 | Kaggle               | 2025 | [Certificate](https://www.kaggle.com/learn/intro-to-deep-learning)                              
+| Basic Graphic Design                   | Pentanik IT BD       | 2021 | [Certificate](https://drive.google.com/file/d/1JP2pzU7PZLxd7WYA-m33qhqWbVUm4_lg/view)
+| Data Science Math Skills               | Coursera             | 2025 | [Certificate](https://www.coursera.org/account/accomplishments/verify/8WHPVSVIP498?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 <!--Certification Section end-->
 
