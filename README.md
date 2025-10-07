@@ -16,13 +16,11 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
   <img src="https://komarev.com/ghpvc/?username=codebymoheb&label=Profile%20views&color=0e75b6&style=flat" alt="codebymoheb" style="margin-right: 10px;"/>
 </div>
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/💻%20Passionate%20about-coding,%20creating,%20and%20continuous%20learning-blue?style=flat-square" alt="Passionate about coding, creating, and continuous learning" />
-</div>
+
 <!-- Profile View Section End -->
 
 <!-- Header subtitle area start -->
-<div style="text-align: justify; margin: 0 auto; max-width: 800px;">
+<div style="text-align: justify; margin: 1 auto; max-width: 800px;">
   <p>
      👋 I'm <strong>Md. Mohebullah</strong>, a <strong>Full Stack ASP.NET Developer</strong> and <strong>Machine Learning Enthusiast</strong>. I build practical web applications using ASP.NET and SQL Server, and I enjoy exploring machine learning with Python. I have completed an <strong>internship at E-Group Ltd</strong>, where I learned and developed ASP.NET web applications with Microsoft SQL Server. My skills include <strong>Python</strong>, <strong>ASP.NET MVC</strong>, <strong>Microsoft SQL Server</strong>, and data/ML libraries such as <strong>NumPy</strong>, <strong>Pandas</strong>, and <strong>Matplotlib</strong>. I also have a basic understanding of DevOps. I am always eager to learn new technologies and improve my craft.
   </p>
