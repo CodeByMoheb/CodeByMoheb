@@ -56,6 +56,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codebymoheb)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/codebymoheb)
+[![Facebook](www.facebook.com/zidan.cse)
 
 <!--Connect with me Section End-->
 
