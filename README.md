@@ -24,11 +24,11 @@
   </p>
 
   <p>
-    📚 I’ve taught as a <strong>Private Tutor (2023–2024)</strong>, creating tailored lesson plans and content across ICT and core subjects, focusing on clarity and problem solving.
+    📚 I’ve completed <strong>Intrnship at E-Group Ltd</strong>, Learn and develop ASP.net Web application with Microsoft SQL server
   </p>
 
   <p>
-    🔧 Skills include <strong>Python</strong>, <strong>ASP.NET MVC</strong>, <strong>Microsoft SQL Server</strong>, and data/ML libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>TensorFlow</strong>.
+    🔧 Skills include <strong>Python</strong>, <strong>ASP.NET MVC</strong>, <strong>Microsoft SQL Server</strong>, and data/ML libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>AND Basic Undertending in Devops</strong>.
   </p>
 </section>
 
@@ -40,13 +40,11 @@
 
 <!--Body Left Section Start-->
 
-- 👨‍🎓 I’m currently a Student at **[IUBAT University](https://iubat.edu/)**
+- 👨‍🎓 I’m currently doing my frist job as Full Stuck Web Developer at  **[E-group](https://e-groupltd.com/)**
+  
+- 👨‍🎓 I have Completed my Graduation from **[IUBAT University](https://iubat.edu/)**
 
-- 📚 I'm currently studying of the department **[BCSE](https://cse.iubat.edu/)**
-
-- 👨‍💻 I'm currently working **Full Stack ASP.NET Development**
-
-- 💬 Ask me about **ASP.NET, SQL Server, Python/ML**
+- 📚 I'm was a student of the department **[BCSE](https://cse.iubat.edu/)**
 
 - 📫 How to reach me **<mohebullah.cse@gmail.com>**
 
@@ -65,13 +63,13 @@
 
 | Position                         | Institute | Duration         | Location              | Credential ID / Link |
 | -------------------------------- | --------- | ---------------- | --------------------- | -------------------- |
-| Full Stack ASP.NET Developer     | eGroup    | Present          | —                     | —                    |
-| ASP.NET Developer (Internship)   | eGroup    | —                | —                     | —                    |
+| Full Stack ASP.NET Developer     |E-Group    | Present          | — Utatra13, Dhaka     | —                    |
+| ASP.NET Developer (Internship)   |E-Group    | june to semtepber| — Utatra13, Dhaka     | —                    |
 | Private Tutor                    | —         | 2023 – 2024      | —                     | —                    |
 
 #### 🎯 Private Tutor – Highlights
 
-- 🧠 Taught HSC ICT (number systems, logic gates, programming, databases, networking, cybersecurity)
+- 🧠 Develop high level web application useing the asp.net core
 - 📘 Taught SSC core subjects; improved foundations and problem-solving
 - ✍️ Designed personalized lesson plans and engaging study materials
 - 🧑‍🏫 Developed and edited educational content for clarity and accuracy
@@ -113,8 +111,8 @@
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
 **IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
-📅 Sep 2021 – Present | 🎯 CGPA: 3.59 / 4.00  
-⏳ Duration: 4 Years | 📚 Status: **Ongoing**
+📅 Sep 2021 – Completed | 🎯 CGPA: 3.63 / 4.00  
+⏳ Duration: 4 Years    | 📚 Status: **Graduated**
 
 - Relevant coursework: OOP, Databases, Discrete Maths, Data Structures and Algorithms, Operating Systems, Computer Networks, Machine Learning, Advanced Data Structures and Algorithms, Image Processing, Deep Learning
 
@@ -124,11 +122,11 @@
 
 | Licenses & Certifications              | Issuing Organization | Year | Credential ID / Link |
 | -------------------------------------- | -------------------- | ---- | -------------------- |
-| Intro to Machine Learning              | Kaggle               | —    | —                    |
-| Intermediate Machine Learning          | Kaggle               | —    | —                    |
-| Intro to Deep Learning                 | Kaggle               | —    | —                    |
-| Data Science Math Skills               | Coursera             | —    | —                    |
-| Basic Graphic Design                   | Pentanik IT BD       | —    | —                    |
+| Intro to Machine Learning              | Kaggle               | 2024 | —https://www.kaggle.com/learn/certification/mdmohebullah/intro-to-machine-learning   
+| Intermediate Machine Learning          | Kaggle               | 2024 | —https://www.kaggle.com/learn/certification/mdmohebullah/intermediate-machine-learning           
+| Intro to Deep Learning                 | Kaggle               | 2025 | —https://www.kaggle.com/learn/intro-to-deep-learning                              
+| Basic Graphic Design                   | Pentanik IT BD       | 2021 | —https://drive.google.com/file/d/1JP2pzU7PZLxd7WYA-m33qhqWbVUm4_lg/view  
+| Data Science Math Skills               | Coursera             | 2025 | —https://www.coursera.org/account/accomplishments/verify/8WHPVSVIP498?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course  
 
 <!--Certification Section end-->
 
