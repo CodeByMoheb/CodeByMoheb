@@ -66,7 +66,7 @@
 | -------------------------------- | --------- | ---------------- | --------------------| 
 | Full Stack ASP.NET Developer     |E-Group    | Present          | Utatra13, Dhaka     | 
 | ASP.NET Developer (Internship)   |E-Group    | june to semtepber| Utatra13, Dhaka     | 
-| Private Tutor                    |           | 2023 – 2024      |                     | 
+
 
 #### 🎯 Private Tutor – Highlights
 
@@ -112,7 +112,7 @@
 #### 💻 B.Sc. in Computer Science & Engineering (CSE)
 
 **IUBAT – International University of Business Agriculture and Technology**, Uttara Model Town, Dhaka, Bangladesh  
-📅 Sep 2021 – Completed | 🎯 CGPA: 3.63 / 4.00  
+📅 Sep 2021 – 2025      | 🎯 CGPA: 3.63 / 4.00  
 ⏳ Duration: 4 Years    | 📚 Status: **Graduated**
 
 - Relevant coursework: OOP, Databases, Discrete Maths, Data Structures and Algorithms, Operating Systems, Computer Networks, Machine Learning, Advanced Data Structures and Algorithms, Image Processing, Deep Learning
