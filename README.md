@@ -41,13 +41,13 @@
 
 <!--Body Left Section Start-->
 
-- 👨‍🎓 I’m currently doing my frist job as Full Stuck Web Developer at  **[E-group](https://e-groupltd.com/)**
-  
-- 👨‍🎓 I have Completed my Graduation from **[IUBAT University](https://iubat.edu/)**
+- 👨‍💻 I am currently working as a Full Stack Software Developer at **[E-Group Ltd](https://e-groupltd.com/)**.
 
-- 📚 I'm was a student of the department of **[BCSE](https://cse.iubat.edu/)**
+- 🎓 I graduated from **[IUBAT University](https://iubat.edu/)** with a degree in Computer Science and Engineering.
 
-- 📫 How to reach me **<mohebullah.cse@gmail.com>**
+- 🏛️ I was a student in the **[BCSE Department](https://cse.iubat.edu/)**.
+
+- 📫 You can reach me at **<mohebullah.cse@gmail.com>**
 
 - ⚡ Fun fact **I love teaching and simplifying complex topics**
 <!--Body Left Section End-->
@@ -69,6 +69,23 @@
 | ASP.NET Developer (Internship)   |  E-Group  |6th june to 30 sep| Utatra13, Dhaka     | 
 
 
+#### 🚀 Featured Projects & Full Stack Development
+
+- 🌐 [E-Group Ltd Website](https://e-groupltd.com)  
+  I designed and developed the official website for E-Group Ltd, a leading IT solutions provider in Bangladesh. This project demonstrates my expertise in full stack development using **ASP.NET Core** and **Microsoft SQL Server**. The site features a modern, responsive UI, dynamic service listings, a portfolio section, and a secure contact form. I managed the entire deployment process, ensuring the site is fast, reliable, and secure on a live server.
+
+- 🌐 [Uttara13 Community Website](https://uttara13.org)  
+  I built and launched the Uttara13 community website, which serves as a digital hub for the Uttara 13 residential area. The platform provides local news, community announcements, event updates, and a member directory. Developed with **ASP.NET Core** and **SQL Server**, I handled both backend and frontend, as well as deployment and ongoing maintenance. The site is optimized for accessibility and user engagement.
+
+> My full stack development skills include designing robust databases, building scalable APIs, creating interactive frontends, and deploying web applications to production environments. I also have experience integrating optional machine learning features using Python when needed.
+
+#### 🎯 Private Tutor – Highlights
+
+- 📘 Taught SSC core subjects; improved foundations and problem-solving
+- ✍️ Designed personalized lesson plans and engaging study materials
+- 🧑‍🏫 Developed and edited educational content for clarity and accuracy
+  I built and launched the Uttara13 community website, which serves as a digital hub for the Uttara 13 residential area. The platform provides local news, community announcements, event updates, and a member directory. Developed with ASP.NET Core, the site is optimized for accessibility and ease of use, helping residents stay connected and informed.
+
 #### 🎯 Private Tutor – Highlights
 
 - 🧠 Develop high level web application useing the asp.net core
@@ -80,31 +97,38 @@
 
 ## 🧰 Tech Stack
 
-**Core Programming languages :**
-![C#](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+**🌟 Full Stack Development (ASP.NET Platform):**
 
-**Frameworks & Libraries :**
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge)
+**Other Programming & Data Science:**
 
-**Databases and cloud hosting :**
+- ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge)
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL (XAMPP)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Other Databases & Cloud:**
 
-**Software and Tools :**
+- ![MySQL (XAMPP)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Tools & IDEs:**
+
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Developer Hub section end -->
 
