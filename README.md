@@ -13,7 +13,7 @@
 <!--Title & Typography Section End-->
 
 <!-- Profile View Section Start -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
   <img src="https://komarev.com/ghpvc/?username=codebymoheb&label=Profile%20views&color=0e75b6&style=flat" alt="codebymoheb" style="margin-right: 10px;"/>
 </div>
 <!-- Profile View Section End -->
