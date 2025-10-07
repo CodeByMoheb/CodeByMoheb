@@ -80,7 +80,7 @@
 ## 🧰 Tech Stack
 
 **Core Programming languages :**
-
+![C#](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Frameworks & Libraries :**
@@ -123,11 +123,11 @@
 
 | Licenses & Certifications              | Issuing Organization | Year | Credential ID / Link |
 | -------------------------------------- | -------------------- | ---- | -------------------- |
-| Intro to Machine Learning              | Kaggle               | 2024 | [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intro-to-machine-learning)   
-| Intermediate Machine Learning          | Kaggle               | 2024 | [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intermediate-machine-learning)           
-| Intro to Deep Learning                 | Kaggle               | 2025 | [Certificate](https://www.kaggle.com/learn/intro-to-deep-learning)                              
-| Basic Graphic Design                   | Pentanik IT BD       | 2021 | [Certificate](https://drive.google.com/file/d/1JP2pzU7PZLxd7WYA-m33qhqWbVUm4_lg/view)
-| Data Science Math Skills               | Coursera             | 2025 | [Certificate](https://www.coursera.org/account/accomplishments/verify/8WHPVSVIP498?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+| Intro to Machine Learning              | Kaggle               | 2024 |   [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intro-to-machine-learning)   
+| Intermediate Machine Learning          | Kaggle               | 2024 |   [Certificate](https://www.kaggle.com/learn/certification/mdmohebullah/intermediate-machine-learning)           
+| Intro to Deep Learning                 | Kaggle               | 2025 |   [Certificate](https://www.kaggle.com/learn/intro-to-deep-learning)                              
+| Basic Graphic Design                   | Pentanik IT BD       | 2021 |   [Certificate](https://drive.google.com/file/d/1JP2pzU7PZLxd7WYA-m33qhqWbVUm4_lg/view)
+| Data Science Math Skills               | Coursera             | 2025 |   [Certificate](https://www.coursera.org/account/accomplishments/verify/8WHPVSVIP498?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 <!--Certification Section end-->
 
