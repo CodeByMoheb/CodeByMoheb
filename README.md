@@ -12,26 +12,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=435&height=70&duration=4000&lines=Full+Stack+ASP.NET+Developer;Machine+Learning+Enthusiast;welcome+to+my+profile;"/>
 <!--Title & Typography Section End-->
 
-<!--pofiel view Section start-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codebymoheb&label=Profile%20views&color=0e75b6&style=flat" alt="codebymoheb" /> </p>
-<!--pofiel view Section end-->
+<!-- Profile View Section Start -->
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=codebymoheb&label=Profile%20views&color=0e75b6&style=flat" alt="codebymoheb" style="margin-right: 10px;"/>
+</div>
+<!-- Profile View Section End -->
 
 <!-- Header subtitle area start -->
-<section align="center" style="text-align: justify;">
-  <h3 style="text-align: center;">💻 Passionate about coding, creating, and continuous learning.</h3>
-
+<div style="text-align: justify; margin: 0 auto; max-width: 800px;">
   <p>
-    👋 I'm <strong>Md. Mohebullah</strong>, a <strong>Full Stack ASP.NET Developer</strong> and <strong>Machine Learning Enthusiast</strong>. I build practical web apps with ASP.NET and SQL Server, and explore ML with Python.
+    <span style="font-size: 1.2em; font-weight: bold; display: block; text-align: center; margin-bottom: 10px;">
+      💻 Passionate about coding, creating, and continuous learning.
+    </span>
+    👋 I'm <strong>Md. Mohebullah</strong>, a <strong>Full Stack ASP.NET Developer</strong> and <strong>Machine Learning Enthusiast</strong>. I build practical web applications using ASP.NET and SQL Server, and I enjoy exploring machine learning with Python. I have completed an <strong>internship at E-Group Ltd</strong>, where I learned and developed ASP.NET web applications with Microsoft SQL Server. My skills include <strong>Python</strong>, <strong>ASP.NET MVC</strong>, <strong>Microsoft SQL Server</strong>, and data/ML libraries such as <strong>NumPy</strong>, <strong>Pandas</strong>, and <strong>Matplotlib</strong>. I also have a basic understanding of DevOps. I am always eager to learn new technologies and improve my craft.
   </p>
-
-  <p>
-    📚 I’ve completed <strong>Intrnship at E-Group Ltd</strong>, Learn and develop ASP.net Web application with Microsoft SQL server
-  </p>
-
-  <p>
-    🔧 Skills include <strong>Python</strong>, <strong>ASP.NET MVC</strong>, <strong>Microsoft SQL Server</strong>, and data/ML libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, and <strong>AND Basic Undertending in Devops</strong>.
-  </p>
-</section>
+</div>
+<!-- Header subtitle area end -->
 
 <!-- Header subtitle area end -->
 
