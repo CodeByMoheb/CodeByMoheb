@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=codebymoheb&label=Profile%20views&color=0e75b6&style=flat" alt="codebymoheb" style="margin-right: 10px;"/>
 </div>
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-   <span>💻 Passionate about coding, creating, and continuous learning.</span>
+  <img src="https://img.shields.io/badge/💻%20Passionate%20about-coding,%20creating,%20and%20continuous%20learning-blue?style=flat-square" alt="Passionate about coding, creating, and continuous learning" />
 </div>
 <!-- Profile View Section End -->
 
