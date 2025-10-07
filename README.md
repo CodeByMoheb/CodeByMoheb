@@ -1,6 +1,6 @@
 <!--Banar Section Start-->
 
-![logo](.assets\img\github-bannar.png)
+![logo](assets\img\github-bannar.png)
 
 <!--Banar Section End-->
 
@@ -44,7 +44,7 @@
   
 - 👨‍🎓 I have Completed my Graduation from **[IUBAT University](https://iubat.edu/)**
 
-- 📚 I'm was a student of the department **[BCSE](https://cse.iubat.edu/)**
+- 📚 I'm was a student of the department of **[BCSE](https://cse.iubat.edu/)**
 
 - 📫 How to reach me **<mohebullah.cse@gmail.com>**
 
@@ -62,10 +62,10 @@
 
 ## 💼 Experience
 
-| Position                         | Institute | Duration         | Location            | 
+| Position                         | Institute |   Duration       | Location            | 
 | -------------------------------- | --------- | ---------------- | --------------------| 
-| Full Stack ASP.NET Developer     |E-Group    | Present          | Utatra13, Dhaka     | 
-| ASP.NET Developer (Internship)   |E-Group    | june to semtepber| Utatra13, Dhaka     | 
+| Full Stack ASP.NET Developer     |  E-Group  |    Present       | Utatra13, Dhaka     | 
+| ASP.NET Developer (Internship)   |  E-Group  |6th june to 30 sep| Utatra13, Dhaka     | 
 
 
 #### 🎯 Private Tutor – Highlights
