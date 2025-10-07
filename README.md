@@ -51,7 +51,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codebymoheb)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/codebymoheb)
-[![Facebook](www.facebook.com/zidan.cse)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/zidan.cse)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@randommotivate)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@zidan9968)
+[![Website](https://img.shields.io/badge/Website-222222?logo=google-chrome&logoColor=white)](http://zidan.uttara13.org)
+
 
 <!--Connect with me Section End-->
 
